@@ -6,3 +6,6 @@ elif 0 < 3:
     print("True, but this will not be executed")
 else:
     print("if all fails.")
+
+# elif runs the function and disregards everything else.
+
